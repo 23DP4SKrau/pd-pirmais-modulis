@@ -1,0 +1,4 @@
+Avots- https://data.gov.lv/dati/lv/dataset/kudraugsnes-dzilrakumi/resource/20ddd3eb-9dc6-4bcd-916c-da29a32e8a26 
+Lejuplādes saite- https://data.gov.lv/dati/dataset/3698efa4-2cbd-4f07-a663-cf80cef171bd/resource/20ddd3eb-9dc6-4bcd-916c-da29a32e8a26/download/kudraugsnes_dzilrakumi_2021_2023_1.csv 
+Lejupielādes datums- 20.11.2026.
+Licence- CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/ 
